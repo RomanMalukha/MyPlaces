@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Суши Хаус.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Суши Хаус@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Суши Хаус@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
